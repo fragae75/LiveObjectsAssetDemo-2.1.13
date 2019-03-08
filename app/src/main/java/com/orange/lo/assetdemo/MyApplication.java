@@ -1,3 +1,7 @@
+/**
+ *
+ */
+
 package com.orange.lo.assetdemo;
 
 import android.app.Application;
@@ -8,9 +12,6 @@ import com.orange.lo.assetdemo.mqtt.Connection;
 import lombok.Getter;
 import lombok.Setter;
 
-/**
- * Created by ZLGP6287 on 13/10/2016.
- */
 
 public class MyApplication extends Application {
 
